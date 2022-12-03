@@ -1,0 +1,2 @@
+/Users/doof/Documents/Personal/welcome_to_my_world/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/doof/Documents/Personal/welcome_to_my_world/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
