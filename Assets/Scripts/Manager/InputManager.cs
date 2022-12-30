@@ -14,7 +14,7 @@ namespace Manager
 
         public void Awake()
         {
-        
+            
         }
 
         private Vector3 ReadAxis()
